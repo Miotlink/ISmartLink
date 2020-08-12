@@ -1,0 +1,3 @@
+include ':smartlink'
+include ':app'
+rootProject.name = "ISmartLink"
